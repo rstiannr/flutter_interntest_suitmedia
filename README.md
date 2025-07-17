@@ -6,8 +6,7 @@
 </div>
 
 <br>
-
-A comprehensive Flutter application demonstrating multi-screen navigation, user input validation, API integration, and modern UI patterns. This project showcases essential Flutter development skills including state management, HTTP requests, infinite scrolling, and image handling.
+This project was developed as part of an internship test for the Mobile Developer role at PT Suitmedia Kreasi Indonesia, specifically for the "Magang Berdampak" program. It demonstrates my ability to understand and implement the given requirements into mobile application development code.
 
 ## 🔗 Links
 
